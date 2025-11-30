@@ -1,2 +1,2 @@
 # AadaSante-project
-plateforme de gestion des tradipraticiens
+plateforme de gestion des tradipraticiens et connexe.
